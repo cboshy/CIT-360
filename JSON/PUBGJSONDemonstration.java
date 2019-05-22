@@ -62,7 +62,7 @@ public class PUBGJSONDemonstration {
 
         
 
-        try (FileWriter file = new FileWriter("C:\\Users\\Blake\\Documents\\NetBeansProjects\\CIT360\\src\\cit360\\PUBGJSONDemonstration.json")) {
+        try (FileWriter file = new FileWriter("C:\\Users\\boshy\\Documents\\NetBeansProjects\\CIT360\\src\\cit360\\PUBGJSONDemonstration.json")) {
 
         
 
@@ -122,7 +122,7 @@ public class PUBGJSONDemonstration {
 
             
 
-            Object PUBGobject = parser.parse(new FileReader("C:\\Users\\Blake\\Documents\\NetBeansProjects\\CIT360\\src\\cit360\\PUBGJSONDemonstration.json"));
+            Object PUBGobject = parser.parse(new FileReader("C:\\Users\\boshy\\Documents\\NetBeansProjects\\CIT360\\src\\cit360\\PUBGJSONDemonstration.json"));
 
         
 
